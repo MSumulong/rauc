@@ -1262,7 +1262,7 @@ D-Bus Integration
 -----------------
 
 The :ref:`D-Bus <sec_ref_dbus-api>` interface RAUC provides makes it easy to
-integrate it into your customapplication.
+integrate it into your custom application.
 In order to allow sending data, make sure the D-Bus config file
 ``de.pengutronix.rauc.conf`` from the ``data/`` dir gets installed properly.
 
